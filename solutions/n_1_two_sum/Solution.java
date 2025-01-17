@@ -1,4 +1,4 @@
-package two_sum;
+package n_1_two_sum;
 
 //Two Sum leetcode.com problem
 //https://leetcode.com/problems/two-sum/

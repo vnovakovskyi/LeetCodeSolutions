@@ -1,4 +1,4 @@
-package merge_two_sorted_lists;
+package n_21_merge_two_sorted_lists;
 
 //Merge Two Sorted Lists leetcode.com problem
 //https://leetcode.com/problems/merge-two-sorted-lists/

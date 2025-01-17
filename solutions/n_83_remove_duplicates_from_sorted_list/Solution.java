@@ -1,4 +1,4 @@
-package remove_duplicates_from_sorted_list;
+package n_83_remove_duplicates_from_sorted_list;
 
 //83. Remove Duplicates from Sorted List leetcode.com problem
 //https://leetcode.com/problems/remove-duplicates-from-sorted-list/

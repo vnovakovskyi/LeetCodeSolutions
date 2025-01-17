@@ -1,4 +1,4 @@
-package merge_two_sorted_lists;
+package n_21_merge_two_sorted_lists;
 
 public class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package plus_one;
+package n_66_plus_one;
 
 //66. Plus One leetcode.com problem
 //https://leetcode.com/problems/plus-one/

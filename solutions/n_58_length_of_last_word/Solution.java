@@ -1,4 +1,4 @@
-package length_of_last_word;
+package n_58_length_of_last_word;
 
 //58. Length of Last Word leetcode.com problem
 //https://leetcode.com/problems/length-of-last-word/
